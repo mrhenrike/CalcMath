@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13383ef388c3607cedbe40d00e378b42f37c9b94">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b82011cd257f84943dfe18390ce6319a0b26d0ac.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e75ae1314718f0f666c1a62edb0fc063eb948916">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/instant-run_513e3cd63bee1337892984c8a92b2c6bd39588a3.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_32c91e5ecb4d0ef4e504404be9b0e22976d62f37.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_8ed28045b0f77acfb9a4ddcb872864519d83affe.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_c4ded9bd155a2a25652e7e4a60d9063f2fb61d9e.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_c4c6ffddf7ac68555f7f5e42644a11514f573215.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_7c05d84d23c4eeca94242b3e4464b336edab5da6.jar" />
+    </item>
+    <item
+        jar="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/mrhenrike/Android/Aplicativos/ConversorApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_a2a0b683b21826947064b1a3158cf171c0d5d7ea.jar" />
+    </item>
+
+</items>

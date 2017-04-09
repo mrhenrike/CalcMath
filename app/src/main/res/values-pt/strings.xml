@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Strings para HomeActivity-->
+    <string name="enter">Entrar</string>
+    <string name="about">Aplicativo apresentado para o Curso de Android, realizado no IFPA-2016, como parte para Avaliação Final.</string>
+    <string name="back">Voltar</string>
+    <string name="calcIMC">Cálculo de IMC</string>
+    <string name="calcMedia">Média Aritimética</string>
+    <string name="calcTemp">Conversor de Temperatura</string>
+    <string name="calculator">Calculadora</string>
+    <string name="close">Sair</string>
+    <string name="switch_opc">Escolha Uma das Opções:</string>
+    <string name="resultFinal">Pressione o Botão Calcular...</string>
+
+    <!--Strings para CalcActivity-->
+    <string name="titleCalc">CALCULADORA</string>
+    <string name="clean">Limpar</string>
+
+    <!--Strings para IMCActivity-->
+    <string name="infoInformacoes">Implicações e Riscos à Saúde</string>
+    <string name="infoIMC">IMC</string>
+    <string name="infoSituacao">Situação</string>
+    <string name="infoPeso">Digite Seu Peso</string>
+    <string name="infoAltura">Digite Sua Altura</string>
+    <string name="btnCalcIMC">Calcular IMC</string>
+    <string name="titleIMC">ÍNDICE DE MASSA CORPORAL</string>
+
+    <!--Strings para Mensagens de Risco do IMC-->
+    <string name="info_naocalc">Ainda Não Calculado...</string>
+    <string name="risc_risco">Riscos à Saúde</string>
+    <string name="info_15">Abaixo do Peso I.</string>
+    <string name="risc_15">Anorexia, bulemia, osteoporose e auto consumo de massa muscular.</string>
+    <string name="info_18_5">Abaixo do Peso.</string>
+    <string name="risc_18_5">Transtornos digestivos, debilidade, fadiga crônica, stress, ansiedade e difusão das hormonais.</string>
+    <string name="info_24_9">Peso Normal.</string>
+    <string name="risc_24_9">Estado normal, bom nível de energia, vitalidade e boa condição física. Mantenha-se assim.</string>
+    <string name="info_29_4">Acima do Peso.</string>
+    <string name="risc_29_4">Fadiga, problemas digestivos, má circulação nas pernas e varizes.</string>
+    <string name="info_39_4">Obesidade I.</string>
+    <string name="risc_39_4">Diabetes, angina de peito, infartes, tromboflebites, arterosclerose, embolias e alterações menstruais.</string>
+    <string name="info_40">Obesidade II.</string>
+    <string name="risc_40">Falta de ar, apneia; sonolência; trombose pulmonar; úlceras varicosas; cancro do cólon, uterino e mamário.</string>
+
+    <!--Strings para MediaActivity-->
+    <string name="nota1">1º Nota</string>
+    <string name="nota2">2º Nota</string>
+    <string name="nota3">3º Nota</string>
+    <string name="btnCalcMedia">Calcular Média</string>
+    <string name="media">MÉDIA FINAL</string>
+    <string name="titleMedia">MÉDIA ARITIMÉTICA</string>
+
+    <!--Strings para TempActivity-->
+    <string name="btnC2F">Celsius Para Fahrenheit</string>
+    <string name="btnF2C">Fahrenheit Para Celsius</string>
+    <string name="temptxt">Digite o Valor Aqui:</string>
+    <string name="titleTemp">CONVERSOR DE TEMPERATURA</string>
+</resources>

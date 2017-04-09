@@ -1,0 +1,58 @@
+<resources>
+    <!--Strings para HomeActivity-->
+    <string name="app_name" translatable="false">CalcMathApp</string>
+    <string name="enter">Enter</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="about">Application submitted for Android Course, held at the IFPA-2016 as part of Final Evaluation.</string>
+    <string name="calcIMC">Calculation BMI</string>
+    <string name="calcMedia">Average Arithmetic</string>
+    <string name="calcTemp">Temperature Converter</string>
+    <string name="calculator">Calculator</string>
+    <string name="switch_opc">Choose One of Options:</string>
+
+    <string name="resultFinal">Press The Button To Calculate...</string>
+
+    <!--Strings para CalcActivity-->
+    <string name="titleCalc">CALCULATOR</string>
+    <string name="clean">Auto Clean</string>
+
+    <!--Strings para IMCActivity-->
+    <string name="infoPeso">Enter Your Weight:</string>
+    <string name="infoAltura">Enter Your Height:</string>
+    <string name="infoIMC">BMI</string>
+    <string name="infoSituacao">Situation</string>
+    <string name="infoInformacoes">Implications and Risks of Healt</string>
+    <string name="btnCalcIMC">Calculate BMI</string>
+    <string name="titleIMC">BODY MASS INDEX</string>
+
+    <!--Strings para Mensagens de Risco do IMC-->
+    <string name="info_naocalc">Not Calculated Yet...</string>
+    <string name="risc_risco">Health Risks</string>
+    <string name="info_15">Weight Below I.</string>
+    <string name="risc_15">Anorexia, bulimia, osteoporosis and high consumption of muscle mass.</string>
+    <string name="info_18_5">Weight Below.</string>
+    <string name="risc_18_5">Eating disorders, weakness, chronic fatigue, stress, anxiety and dissemination of hormonal.</string>
+    <string name="info_24_9">Normal Weight.</string>
+    <string name="risc_24_9">Normal, good level of energy, vitality and good physical condition. Keep well.</string>
+    <string name="info_29_4">Overweight.</string>
+    <string name="risc_29_4">Fatigue, digestive problems, poor circulation in the legs and varicose veins.</string>
+    <string name="info_39_4">Obesity I.</string>
+    <string name="risc_39_4">Diabetes, angina pectoris, infarctions, thrombophlebitis, arteriosclerosis, embolism and menstrual abnormalities.</string>
+    <string name="info_40">Obesity II.</string>
+    <string name="risc_40">Shortness of breath, apnea; somnolence; pulmonary thrombosis; varicose ulcers; colon cancer, uterine and breast.</string>
+
+    <!--Strings para MediaActivity-->
+    <string name="nota1">1º Note</string>
+    <string name="nota2">2º Note</string>
+    <string name="nota3">3º Note</string>
+    <string name="btnCalcMedia">Calculate Average</string>
+    <string name="media">FINAL MEDIA</string>
+    <string name="titleMedia">AVERAGE ARITHMETIC</string>
+
+    <!--Strings para TempActivity-->
+    <string name="btnC2F">Celsius To Fahrenheit</string>
+    <string name="btnF2C">Fahrenheit To Celsius</string>
+    <string name="temptxt">Enter The Value Here:</string>
+    <string name="titleTemp">TEMPERATURE CONVERTER</string>
+</resources>
